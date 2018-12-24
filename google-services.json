@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "908833298732",
+    "firebase_url": "https://empyrean-bridge-187603.firebaseio.com",
+    "project_id": "empyrean-bridge-187603",
+    "storage_bucket": "empyrean-bridge-187603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908833298732:android:74cb5425afb8b336",
+        "android_client_info": {
+          "package_name": "com.example.admin.keyproirityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908833298732-dmkl36rqjpbp3pu3hh496ub903lmkrvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiatkT8frOTSY_vb_8AnuZTdFjUjVJMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908833298732:android:a7268a91c916eaa8",
+        "android_client_info": {
+          "package_name": "com.example.admin.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908833298732-dmkl36rqjpbp3pu3hh496ub903lmkrvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiatkT8frOTSY_vb_8AnuZTdFjUjVJMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908833298732:android:4a0c0f529c5da7b2",
+        "android_client_info": {
+          "package_name": "com.example.admin.videocallingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908833298732-ructicrtbfjt7sf88d9f3l13ktfne67c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.videocallingapp",
+            "certificate_hash": "3381d2e3a89078dea017868000c04ff976913117"
+          }
+        },
+        {
+          "client_id": "908833298732-dmkl36rqjpbp3pu3hh496ub903lmkrvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMiatkT8frOTSY_vb_8AnuZTdFjUjVJMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908833298732-dmkl36rqjpbp3pu3hh496ub903lmkrvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
